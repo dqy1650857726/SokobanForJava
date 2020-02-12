@@ -24,6 +24,6 @@
 ----
 ----
 ## 游戏截图
-![无法显示](./JT1.png)
+![无法显示](https://github.com/dqy1650857726/SokobanForJava/blob/master/JT1.png)
 ----
-![无法显示](./JT2.png)
+![无法显示](https://github.com/dqy1650857726/SokobanForJava/blob/master/JT2.png)
